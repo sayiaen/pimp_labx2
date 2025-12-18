@@ -1,4 +1,4 @@
 object hello extends App{
-  println("hello")
+  println("Hello, World!")
 
 }
